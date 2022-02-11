@@ -7,6 +7,6 @@
 
 
 
-# If project is not working try to "change the parameter inside CV2.waitKey() function" in "Main.py" file;
+# If project is not working try to "change the parameter inside CV2.waitKey() function 1 to 0" in "Main.py" file;
 
 
